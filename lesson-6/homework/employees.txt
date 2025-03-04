@@ -1,2 +1,0 @@
-Employee ID, Name, Position, SalaryEmployee ID, Name, Position, SalaryEmployee ID, Name, Position, SalaryEmployee ID, Name, Position, Salary
-1001, John Doe, Software Engineer, 75000Employee ID, Name, Position, SalaryEmployee ID, Name, Position, SalaryEmployee ID, Name, Position, SalaryEmployee ID, Name, Position, Salary
